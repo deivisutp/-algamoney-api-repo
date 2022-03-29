@@ -45,10 +45,10 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- mysql -->
+        <!-- postgres -->
         <dependency>
-            <groupId>mysql</groupId>
-            <artifactId>mysql-connector-java</artifactId>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
             <scope>runtime</scope>
         </dependency>
 
